@@ -1,0 +1,8 @@
+{
+  "name": "lengthenizr-bookmarklet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Bran van der Meer <branmovic@gmail.com> (http://bran.name/)",
+  "license": "MIT"
+}
